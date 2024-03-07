@@ -45,3 +45,15 @@
         transform: rotate(360deg);
     }
 }
+
+.colored-text {
+    display: inline-block;
+    padding: 10px;
+}
+
+.colored-text span {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+}
